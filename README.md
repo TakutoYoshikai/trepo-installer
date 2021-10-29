@@ -11,6 +11,7 @@ trepo is tools about list of your Github repositories.
   
 ### Requirements
 * macOS or Ubuntu
+* npm
 
 ### Installation
 basic way to install
