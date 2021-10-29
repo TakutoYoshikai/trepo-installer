@@ -14,14 +14,14 @@ trepo is tools about list of your Github repositories.
 * npm
 
 ### Installation
-basic way to install
+basic install
 ```bash
 git clone https://github.com/TakutoYoshikai/trepo-installer
 cd trepo-installer
 ./install.sh
 ```
 
-way to install using **[tinstall](https://github.com/TakutoYoshikai/tinstall)**
+install using **[tinstall](https://github.com/TakutoYoshikai/tinstall)**
 ```bash
 tinstall trepo-installer
 ```
