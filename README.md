@@ -21,7 +21,7 @@ cd trepo-installer
 ./install.sh
 ```
 
-way to install using **tinstall**
+way to install using **[tinstall](https://github.com/TakutoYoshikai/tinstall)**
 ```bash
 tinstall trepo-installer
 ```
