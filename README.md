@@ -1,5 +1,5 @@
 # trepo-installer
-trepo is tools about list of repositories of your own Github account.
+trepo is tools about list of your Github repositories.
 
 ### Includes
 - **[repo-list](https://github.com/TakutoYoshikai/repo-list)**
