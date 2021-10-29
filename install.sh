@@ -12,3 +12,4 @@ fi
 
 npm install -g TakutoYoshikai/repo-list
 npm install -g TakutoYoshikai/trepo-list
+npm install -g TakutoYoshikai/all-cloner
